@@ -4,7 +4,7 @@ int main()
 {
 
  string s="sheikh mohammed sayed ali";
- s.resize(45,'2');
+ s.resize(30,'5');// 25 porjonto amr name er por 5 dia fill korve
  
  cout << s<< endl;
 
