@@ -7,7 +7,7 @@ s.erase(6);   // 6 no index theke porjonto string ta erase korbe
 cout << s<< endl;
 
 string s2="sheikh mohammed saif ali";
-s2.erase(16,4);    // 13 no index theke 4 character erase korbe
+s2.erase(16,4);    // 16 no index theke 4 character erase korbe
 cout <<s2<< endl;
 
 string s3="sheikh mohammed aiman ali";
