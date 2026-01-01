@@ -18,7 +18,7 @@ class student
       }
       void new1()
       {
-        cout<< "hellow" <<" "<<name<< " "<< math+english<<" "<<endl;
+        cout<< "hellow" <<" "<<name<< " "<< math+english<<" "<<roll<<endl;
       }   //hellow er por nicer call  
       
       
