@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 class footballer
 {
     public:
@@ -13,9 +14,10 @@ class footballer
            this->jersy=jersy;
 
         }
-         
+  
     
 };
+
 
 
 int main()
