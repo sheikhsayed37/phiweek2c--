@@ -8,8 +8,7 @@ class student
     int roll;
     int math;
     int english;
-
-
+    
       student(string name,int roll,int math,int english)
 
       {
@@ -22,8 +21,7 @@ class student
       {
         cout<< "hellow" <<" "<<name<< " "<< math+english<<" "<<roll<<endl;
       }   //hellow er por nicer call  
-      
-      
+ 
       
 };
 

@@ -4,7 +4,9 @@ int main()
 {
     
     string s;
+
     getline(cin,s); // full line input nibo
+    
     stringstream ss(s); //ss word by word venge nibe
 
     string word;  // ata moloto arekta string declare korsi jekhane word gulo store korte cai
