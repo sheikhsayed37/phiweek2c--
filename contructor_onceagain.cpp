@@ -8,7 +8,7 @@ class student
     int roll;
     int math;
     int english;
-    
+
       student(string name,int roll,int math,int english)
 
       {
@@ -24,8 +24,6 @@ class student
  
       
 };
-
-
 int main()
 {
    student sayed("sayed ali",45,98,80);
