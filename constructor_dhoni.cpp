@@ -8,16 +8,14 @@ class footballer
         string  country;
         int  jersy;
         footballer(string country, int jersy)
+
         {
            this->country=country;
            this->jersy=jersy;
 
         }
-  
-    
+        
 };
-
-
 
 int main()
 {
@@ -27,6 +25,4 @@ int main()
       *messi=*neymer;
       delete neymer;
       cout << messi->country<< " "<< messi->jersy<< endl;
-
-
 }
