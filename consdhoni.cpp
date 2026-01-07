@@ -1,12 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
  class Cricketer
+ 
 {
     public:
 	int jersey_no;
 	string country;
 
 };
+
 int main()
 {
 
