@@ -12,11 +12,9 @@ class footballer
         {
            this->country=country;
            this->jersy=jersy;
-
         }
         
 };
-
 int main()
 {
 
