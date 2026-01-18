@@ -8,7 +8,9 @@ using namespace std;
 	string country;
 
 };
+
 int main()
+
 {
 
      Cricketer *dhoni=new Cricketer[12];
