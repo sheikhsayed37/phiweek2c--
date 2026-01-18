@@ -15,7 +15,9 @@ class footballer
         }
         
 };
+
 int main()
+
 {
 
       footballer *messi=new footballer("ARGENTINA",10);
