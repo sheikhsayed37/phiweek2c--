@@ -9,5 +9,6 @@ int main()
     cout << *str.end()<<endl;   // end() function string er last er porer address return kore mane ali er pore null character
 
     cout << *(str.end()-1)<<endl; // last character dekhate chaile end()-1 korte hobe
+    
     return 0;
 }

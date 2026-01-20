@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int main()
+
 {
     string str= "sheikh mohammed sayed ali";
 
