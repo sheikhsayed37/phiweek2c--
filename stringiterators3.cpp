@@ -7,12 +7,16 @@ int main()
     string str= "sheikh mohammed sayed ali";
 
     for(string::iterator it=str.begin();it<str.end();it++)
+
     {
+
         cout<<*it<<endl;
 
     }
+    
     return 0;
 }
+
 //#include <bits/stdc++.h>
 //using namespace std;                                 // both code er output same
 //int main()
