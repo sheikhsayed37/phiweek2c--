@@ -1,6 +1,6 @@
 5
 sayed 2 89
 saif 3 90
-amir 4 97
+amir 4 88
 rakib 7 93
 sakib 1 94

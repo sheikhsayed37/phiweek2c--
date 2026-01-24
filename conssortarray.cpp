@@ -11,7 +11,7 @@ bool cmp(student a,student b)
 {
     if(a.marks<b.marks)  // ai function ta moloto randomly doijoner moddhe
                          //  compare kore choto boro ta ber kore
-    {
+   {
         return true;
     }
     else
