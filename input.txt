@@ -1,4 +1,6 @@
-3
-sayed 2 3
-saif 3 4
-amir 4 6
+5
+sayed 2 4
+saif 3 8
+amir 4 1
+rakib 3 7
+sakib 4 6
