@@ -6,13 +6,12 @@ class student
     string name;
     int roll;
     int marks;
-};
 
+};
 bool cmp(student a,student b)
 {
-    return a.marks>b.marks;   // decending order er jonno boro to choto
-                         // information soho mark er opor decending hoiee asshe
-}         
+    return a.marks>b.marks;  
+}
 int main()
 {
     int n;
@@ -23,7 +22,7 @@ int main()
         cin>>a[i].name>>a[i].roll>>a[i].marks;
     }
 
-     sort(a,a+n,cmp);  // acending order bt akto kotin kaj kora lagse opore fun k call korte hoise
+     sort(a,a+n,cmp);  
 
         for(int i=0;i<n;i++)
     {
