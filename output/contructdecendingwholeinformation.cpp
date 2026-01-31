@@ -8,6 +8,7 @@ class student
     int marks;
 
 };
+
     bool cmp(student a,student b)
   {
     if(a.marks>b.marks)   // decending order er jonno boro to choto
