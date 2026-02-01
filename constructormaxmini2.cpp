@@ -7,9 +7,7 @@ class student
     int roll;
     int marks;
 };
-
 int main()
-
 {
     int n;
     cin>>n;

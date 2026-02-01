@@ -1,5 +1,1 @@
-sakib 1 94
-rakib 7 94
-saif 3 90
-sayed 2 89
 amir 4 88
