@@ -10,8 +10,9 @@ class student
 
 bool cmp(student a,student b)
 {
+
     return a.marks<b.marks;   // akkto shohoje lekha jay eivabe asecnding marks er jonno+pora 
-                         // information soho mark er opor ascending hoiee asshe
+                              // information soho mark er opor ascending hoiee asshe
 }
 
 int main()
