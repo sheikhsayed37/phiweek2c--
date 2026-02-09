@@ -12,7 +12,10 @@ int main()
     cout << s2 << endl;
 
     return 0;
+
 }
      // cin.getline(s2,100) use korle error show korbe karon
      // karon string librsry te getline function ache ja cin er sathe use kora jabe na mane cin.getline(s2,100)
      // aibabe likhe jabe na
+    //modda kotha char[100] likhe cin.getline(s2,100) use kora jabe mane cin.getline ersathe 
+    // ata attacch
