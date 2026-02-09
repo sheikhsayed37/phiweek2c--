@@ -8,7 +8,7 @@ int main()
     {
        cout<<"EMPTY"<< endl;
     }
-    else
+    else 
     {
         cout <<"not empty"<<endl;
     }
