@@ -19,7 +19,7 @@ using namespace std;
 
        for(int i=0;i<n;i++)
        {
-        cin.ignore();         // input neyar somoy ignore maintain kor enite hbe
+        cin.ignore();         // input neyar somoy ignore maintain kore nite hbe
         getline(cin,a[i].name);
         cin>>a[i].roll>>a[i].id;
         
