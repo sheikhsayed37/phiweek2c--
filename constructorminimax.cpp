@@ -16,7 +16,7 @@ int main()
     cin>>n;
     student a[n];
     for(int i=0;i<n;i++)
-    {
+    { 
         cin>> a[i].name>> a[i].roll>> a[i].marks;
     }
     int mn=INT_MAX;    // int max onk boro akta soinka jekane kicp akta raka ase
@@ -30,4 +30,4 @@ int main()
     }
     cout<< "lowest mark is "<< mn<<endl;
 
-}
+} 
